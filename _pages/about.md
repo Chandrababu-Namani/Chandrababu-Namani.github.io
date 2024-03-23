@@ -21,7 +21,7 @@ My research area lies in Natural Language Processing, Machine Learning.
 * Jun 2020~Jun 2024 [MVSR Engineering College, Hyderabad](https://mvsrec.edu.in/)
   * GPA 8.00/10.00
 * Jun 2018~Mar 2020 [Narayana Junior College, Hyderabad](https://www.narayanajuniorcolleges.com/)
-  [Marks 965/1000](https://drive.google.com/file/d/1R1DcFP_rz_WtvDJUjjPBZ_Cn0bhMyscF/view?usp=sharing)
+  * [Marks 965/1000](https://drive.google.com/file/d/1R1DcFP_rz_WtvDJUjjPBZ_Cn0bhMyscF/view?usp=sharing)
 * Mar 2018 [Sri Kakatiya High School](https://kakatiyainstitutions.com/)
   * [GPA 9.80/10.00](https://drive.google.com/file/d/1S5xslWA7RmH729WGRbIurrFC1MZk_cru/view?usp=sharing)
  
