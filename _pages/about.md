@@ -34,8 +34,8 @@ My research area lies in Natural Language Processing, Machine Learning.
 
 
 ### Publications
- 1. Feb 2024 [Boosting Sentiment Analysis Accuracy in Telugu with Data Augmentation](https://drive.google.com/file/d/1EySRa696i_dcofLM3P_ZZAhZ5MSfNIWX/view?usp=sharing) _[DAPCom 2024: International Conference on Data Acquisition Processing and Communication](https://dapcom.mvsrec.edu.in/)_ [Best Paper Award](https://drive.google.com/file/d/1F4OF-AcXKQA9Pi7Ar_aN7eBLWTRpU4sE/view?usp=sharing)
-2. Mar 2024 [Improving Legal Text Classification Performance using Open-Source Large Language Model Augmentation](https://drive.google.com/file/d/1zOr-7GMobyI0aXerFeV82uMjods0CCKf/view?usp=sharing) _[ICFOSS, Kerala](https://icfoss.in/)_ Best Poster Award
+ 1. [Boosting Sentiment Analysis Accuracy in Telugu with Data Augmentation](https://drive.google.com/file/d/1EySRa696i_dcofLM3P_ZZAhZ5MSfNIWX/view?usp=sharing), _[DAPCom 2024: International Conference on Data Acquisition Processing and Communication](https://dapcom.mvsrec.edu.in/)_, [Best Paper Award](https://drive.google.com/file/d/1F4OF-AcXKQA9Pi7Ar_aN7eBLWTRpU4sE/view?usp=sharing)
+2. [Improving Legal Text Classification Performance using Open-Source Large Language Model Augmentation](https://drive.google.com/file/d/1zOr-7GMobyI0aXerFeV82uMjods0CCKf/view?usp=sharing), _[ICFOSS, Kerala](https://icfoss.in/)_, Best Poster Award
 
 ### Awards
 * [Best Paper Award](https://drive.google.com/file/d/1F4OF-AcXKQA9Pi7Ar_aN7eBLWTRpU4sE/view?usp=sharing)
