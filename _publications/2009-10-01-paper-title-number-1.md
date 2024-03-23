@@ -1,12 +1,8 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
+ 1. Feb 2024 [Boosting Sentiment Analysis Accuracy in Telugu with Data Augmentation](https://drive.google.com/file/d/1EySRa696i_dcofLM3P_ZZAhZ5MSfNIWX/view?usp=sharing) _[DAPCom 2024: International Conference on Data Acquisition Processing and Communication](https://dapcom.mvsrec.edu.in/)_ [Best Paper Award](https://drive.google.com/file/d/1F4OF-AcXKQA9Pi7Ar_aN7eBLWTRpU4sE/view?usp=sharing)
+    * Guide: [Battula Venkata Ramana](https://data.mvsrec.edu.in/faculty/profile.php?option=CSE&name=BATTULA%20VENKATARAMANA&designation=Assistant+Professor&email=venkataramana_cse@mvsrec.edu.in&qualification=M.Tech,(Ph.D)), [MVSR Engineering College, Hyderabad](https://mvsrec.edu.in/)
+    * This research employs data augmentation, including back translation, paraphrasing, and synonymizing to enhance sentiment analysis in Telugu, emphasizing improved model performance in resource-constrained linguistic domains.
+   
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+2. Mar 2024 [Improving Legal Text Classification Performance using Open-Source Large Language Model Augmentation](https://drive.google.com/file/d/1zOr-7GMobyI0aXerFeV82uMjods0CCKf/view?usp=sharing) _[ICFOSS, Kerala](https://icfoss.in/)_ Best Poster Award
+    * Guide: [Dr. S. Jaya Nirmala](https://www.nitt.edu/home/academics/departments/cse/faculty/jnirmala/), [National Institute of Technology, Tiruchirappalli ](https://www.nitt.edu/)
+    * Leveraging open-source LLMs for data augmentation and domain-specific transformers like InLegalBERT enable robust NLP applications in legal domains, addressing data scarcity and facilitating tasks such as Rhetorical Role labeling in Indian legal contexts.
