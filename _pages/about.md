@@ -29,7 +29,7 @@ My research area lies in Natural Language Processing, Machine Learning.
 ### Work Experience
 * Dec 2023~Jan 2024 [National Institute of Technology, Tiruchirappalli ](https://www.nitt.edu/) _[Research Intern](https://drive.google.com/file/d/1F0cqJ2GmUcGS1doBjGw0sAuwO5Q2jiT2/view?usp=sharing)_
 * Jan 2023~Mar 2023 Solar Secure Solutions _[Data Science Intern](https://drive.google.com/file/d/1FrsL9ob2Ew6injI8R340D9mdYdHVU5Sd/view?usp=share_link)_
-* Dec 2022~Feb 2023 [InternShala] _[Student Partner](https://drive.google.com/file/d/1zX9Y_1I3M_kEkqO2jbuTP60F-eH8Lsho/view?usp=share_link)_
+* Dec 2022~Feb 2023 [InternShala](https://isp.internshala.com/) _[Student Partner](https://drive.google.com/file/d/1zX9Y_1I3M_kEkqO2jbuTP60F-eH8Lsho/view?usp=share_link)_
 
 
 
