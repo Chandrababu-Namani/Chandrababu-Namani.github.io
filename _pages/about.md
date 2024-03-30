@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Chandrababu Namani. I am a senior at MVSR Engineering College, working towards a Bachelor of Sciences in Computer Science and Engineering.
+Hi there! My name is Chandrababu Namani. I am a senior at MVSR Engineering College, pursuing a Bachelor of Engineering in Computer Science and Engineering.
 
 My research area lies in Natural Language Processing, Machine Learning.
 
@@ -20,6 +20,9 @@ My research area lies in Natural Language Processing, Machine Learning.
 ### Education
 * Jun 2020~Jun 2024 [MVSR Engineering College, Hyderabad](https://mvsrec.edu.in/)
   * GPA 8.00/10.00
+  * Relevant Coursework: Data Structures & Algorithms, Discrete Mathematics, Java, Computer Organization,
+Operating Systems, DBMS, Computer Networks, Artificial Intelligence, Machine Learning, Data Science, Data
+Mining, Information Security, Big Data Analytics, Distributed Systems, and Compiler Design.
 * Jun 2018~Mar 2020 [Narayana Junior College, Hyderabad](https://www.narayanajuniorcolleges.com/)
   * [Marks 965/1000](https://drive.google.com/file/d/1R1DcFP_rz_WtvDJUjjPBZ_Cn0bhMyscF/view?usp=sharing)
 * Mar 2018 [Sri Kakatiya High School](https://kakatiyainstitutions.com/)
