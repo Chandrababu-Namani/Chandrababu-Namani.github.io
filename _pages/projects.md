@@ -18,7 +18,7 @@ redirect_from:
     * Open Set Classification and advanced thresholding for precise radar emitter classification.
     * ResNet[Pytorch] model training to boost classification accuracy within our Python tech stack.
     
-3. **[Automated Attendance System with Face Recognition](https://github.com/Chandrababu-Namani/Automated-Attendance-System-with-Face-Recognition)**, _Machine Learning Project_, 16 ⭐s & 4 forks on [GitHub](https://github.com/Chandrababu-Namani/Automated-Attendance-System-with-Face-Recognition)  _Dec 2022_
+3. **[Automated Attendance System with Face Recognition](https://github.com/Chandrababu-Namani/Automated-Attendance-System-with-Face-Recognition)**, _Machine Learning Project_, 17 ⭐s & 4 forks on [GitHub](https://github.com/Chandrababu-Namani/Automated-Attendance-System-with-Face-Recognition)  _Dec 2022_
     * An intuitive GUI for simplifying attendance tracking and management with Face recognition
     * User-Friendly GUI
     * Face Recognition and Data Storage
