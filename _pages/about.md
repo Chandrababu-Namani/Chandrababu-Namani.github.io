@@ -23,22 +23,18 @@ My research area lies in Natural Language Processing, Machine Learning.
   * Relevant Coursework: Data Structures & Algorithms, Discrete Mathematics, Java, Computer Organization,
 Operating Systems, DBMS, Computer Networks, Artificial Intelligence, Machine Learning, Data Science, Data
 Mining, Information Security, Big Data Analytics, Distributed Systems, and Compiler Design.
-* Jun 2018~Mar 2020 [Narayana Junior College, Hyderabad](https://www.narayanajuniorcolleges.com/)
-  * [Marks 965/1000](https://drive.google.com/file/d/1R1DcFP_rz_WtvDJUjjPBZ_Cn0bhMyscF/view?usp=sharing)
-* Mar 2018 [Sri Kakatiya High School](https://kakatiyainstitutions.com/)
-  * [GPA 9.80/10.00](https://drive.google.com/file/d/1S5xslWA7RmH729WGRbIurrFC1MZk_cru/view?usp=sharing)
  
     
 ### Work Experience
 * Dec 2023~Jan 2024 [National Institute of Technology, Tiruchirappalli ](https://www.nitt.edu/) _[Research Intern](https://drive.google.com/file/d/1F0cqJ2GmUcGS1doBjGw0sAuwO5Q2jiT2/view?usp=sharing)_
-* Jan 2023~Mar 2023 Solar Secure Solutions _[Data Science Intern](https://drive.google.com/file/d/1FrsL9ob2Ew6injI8R340D9mdYdHVU5Sd/view?usp=share_link)_
-* Dec 2022~Feb 2023 [InternShala](https://isp.internshala.com/) _[Student Partner](https://drive.google.com/file/d/1zX9Y_1I3M_kEkqO2jbuTP60F-eH8Lsho/view?usp=share_link)_
 
 
 
 ### Publications
- 1. [Boosting Sentiment Analysis Accuracy in Telugu with Data Augmentation](https://drive.google.com/file/d/1EySRa696i_dcofLM3P_ZZAhZ5MSfNIWX/view?usp=sharing), _[DAPCom 2024: International Conference on Data Acquisition Processing and Communication](https://dapcom.mvsrec.edu.in/)_, [Best Paper Award](https://drive.google.com/file/d/1F4OF-AcXKQA9Pi7Ar_aN7eBLWTRpU4sE/view?usp=sharing)
-2. [Improving Legal Text Classification Performance using Open-Source Large Language Model Augmentation](https://drive.google.com/file/d/1zOr-7GMobyI0aXerFeV82uMjods0CCKf/view?usp=sharing), _[ICFOSS, Kerala](https://icfoss.in/)_, Best Poster Award
+ 1. [Enhancing Rhetorical Role Identification in Legal Documents using Large Language Models and IN place Data Augmentation](https://link.springer.com/chapter/10.1007/978-3-031-79041-6_8), _[3rd International Conference on Computing, Communication and Learning COCOLE-2024](https://ic-cocole.in/cocole2024/)
+ 2.  [Boosting Sentiment Analysis Accuracy in Telugu with Data Augmentation](https://www.google.co.in/books/edition/Multifaceted_approaches_for_Data_Acquisi/7cMMEQAAQBAJ?hl=en&gbpv=1&dq=10.1201/9781003470939-17&pg=PA131&printsec=frontcover), _[DAPCom 2024: International Conference on Data Acquisition Processing and Communication](https://dapcom.mvsrec.edu.in/)_, [Best Paper Award](https://drive.google.com/file/d/1F4OF-AcXKQA9Pi7Ar_aN7eBLWTRpU4sE/view?usp=sharing)
+ 3.  [Enhancing Telugu Sarcasm Classification Models with Word Embeddings in Imbalanced Datasets](https://link.springer.com/chapter/10.1007/978-981-96-0147-9_12), _[International Conference on Frontiers of Intelligent Computing: Theory and Applications](https://link.springer.com/conference/ficta)
+4. [Automated Detection of Offensive Content in Social Media](https://d1wqtxts1xzle7.cloudfront.net/115593007/Conference_Proceedings_IRSD_2024-libre.pdf?1717398298=&response-content-disposition=inline%3B+filename%3DConference_Proceedings_IRSD.pdf&Expires=1753205559&Signature=PyJ11H0DyAJlL6mf1Tk1L8V7zoML7Ju5LWJPmSVO~85c7v2FwPj9RyxTmZC-56nSDPWhwODUCtCEEUonZlirIJX2rsXAhZf8nvP8HNErTgQzKP835kNxHX0-CHThiNFyJh5MRmuicata5SxPYU48JeVYOPgkMh21lhhYxDWnOQwCEkb3dZoB8qfTUf5B1uVsJgldUT3t8LAt12OfXvKo5nxvBnvLFiaLWerH4HTvVwXUjB3gXF4ovbcI13hGM1w-sgIy5NjZWI8NxERNKOgobSUB6J7TvMEUULamZEzrxw5XFHK46bN~C16RNnRI21sxfVDfrKDwzUVZXP9tyT3ftQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA#page=109)
 
 ### Awards
 * [Best Paper Award](https://drive.google.com/file/d/1F4OF-AcXKQA9Pi7Ar_aN7eBLWTRpU4sE/view?usp=sharing)
