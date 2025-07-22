@@ -18,7 +18,7 @@ My research area lies in Natural Language Processing, Machine Learning.
       * Large Language Model
      
 ### Education
-* Jun 2020~Jun 2024 [Osmania University, Hyderabad](https://mvsrec.edu.in/)
+* Jun 2020~Jun 2024 [Osmania University, Hyderabad]
   * GPA 8.12/10.00
   * Relevant Coursework: Data Structures & Algorithms, Discrete Mathematics, Java, Computer Organization,
 Operating Systems, DBMS, Computer Networks, Artificial Intelligence, Machine Learning, Data Science, Data
