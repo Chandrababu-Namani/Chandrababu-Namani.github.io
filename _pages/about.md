@@ -19,7 +19,7 @@ My research area lies in Natural Language Processing, Machine Learning.
      
 ### Education
 * Jun 2020~Jun 2024 [MVSR Engineering College, Hyderabad](https://mvsrec.edu.in/)
-  * GPA 8.00/10.00
+  * GPA 8.12/10.00
   * Relevant Coursework: Data Structures & Algorithms, Discrete Mathematics, Java, Computer Organization,
 Operating Systems, DBMS, Computer Networks, Artificial Intelligence, Machine Learning, Data Science, Data
 Mining, Information Security, Big Data Analytics, Distributed Systems, and Compiler Design.
